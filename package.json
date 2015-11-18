@@ -1,0 +1,17 @@
+{
+  "name": "es6-webpack-boilerplate",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "babel-runtime": "^5.8.34"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.34",
+    "babel-eslint": "^3.1.30",
+    "babel-loader": "^5.4.0",
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
